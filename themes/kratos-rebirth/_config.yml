@@ -87,7 +87,7 @@ valine:
 
 # Twikoo [Twikoo](https://twikoo.js.org) 评论相关
 twikoo:
-  env_id: http://twikoo-jessejeson.vercel.app
+  env_id: https://twikoo-jessejeson.vercel.app
 
 # Waline [Waline](https://waline.js.org) 评论相关
 ## 不仅限于以下内容，您可以参照 Waline的 [前端配置文档](https://waline.js.org/client/basic.html) 设置您需要的配置项
