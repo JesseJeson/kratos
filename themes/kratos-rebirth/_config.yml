@@ -13,7 +13,7 @@ check_update: true
 customStyles:
   images: # 图片相关设置
     banner: /images/banner.webp # 站点横幅
-    background: /images/bg.webp # 站点背景
+    background: https://cdn.jsdelivr.net/gh/JesseJeson/picture-api@6b0eab445fc0c2d76589f5230604b75e21418456/2022/03/15/56e6a2685ad499a42e9b0a8aa41f291b.png # 站点背景
 
 # Index 首页配置
 index:
