@@ -12,7 +12,7 @@ check_update: true
 # 自定义样式
 customStyles:
   images: # 图片相关设置
-    banner: https://i.loli.net/2019/08/02/5d43ad58f29b374699.png # 站点横幅
+    banner: https://i.loli.net/2019/08/01/5d42d1bb1b30749952.png # 站点横幅
     background: https://cdn.jsdelivr.net/gh/JesseJeson/picture-api@86c9b487dbd0200ae2f9497b7626ba3d4872bc8d/2022/03/16/4f609aaca0db860f0a2584e587c7adc4.png # 站点背景
 
 # Index 首页配置
