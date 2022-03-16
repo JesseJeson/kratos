@@ -13,7 +13,7 @@ check_update: true
 customStyles:
   images: # 图片相关设置
     banner: /images/banner.webp # 站点横幅
-    background: https://onemanager-jessejeson.vercel.app/Live1.mp4 # 站点背景
+    background: https://cdn.jsdelivr.net/gh/JesseJeson/picture-api@86c9b487dbd0200ae2f9497b7626ba3d4872bc8d/2022/03/16/4f609aaca0db860f0a2584e587c7adc4.png # 站点背景
 
 # Index 首页配置
 index:
